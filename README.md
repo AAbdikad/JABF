@@ -1,2 +1,0 @@
-# JABF
-compsci website
